@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\amaro\Documents\PCB_kurss\R_Amarova_MultiVib\R_Amarova_MultiVib.sch)
-    (date "3/7/2019 11:18:17")
+    (date "3/7/2019 15:38:48")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -73,7 +73,7 @@
       (value BC847BS)
       (libsource (lib MultiVib) (part BC847BS) (description ""))
       (sheetpath (names /) (tstamps /))
-      (tstamp 5C80EFB7)))
+      (tstamp 5C8129C4)))
   (libparts
     (libpart (lib Device) (part Battery)
       (description "Multiple-cell battery")
